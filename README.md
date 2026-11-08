@@ -1,0 +1,1 @@
+# -GlobalSolution-02-2026---Modelagem-Linear-para-Aprendizado-de-Maquina---Citizen
